@@ -4,13 +4,13 @@ import java.util.List;
 
 //0이 아닌 요소를 저장할 클래스
 class MatrixTerm {
- int row, col, value;
-
- public MatrixTerm(int row, int col, int value) {
-     this.row = row;
-     this.col = col;
-     this.value = value;
- }
+	 int row, col, value;
+	
+	 public MatrixTerm(int row, int col, int value) {
+	     this.row = row;
+	     this.col = col;
+	     this.value = value;
+	 }
 }
 
 

@@ -10,7 +10,7 @@ public class StringTokenizerRun {
 
 	public static void main(String[] args) throws IOException {
 			
-	   BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
 
         // 입력받기 (예: "3 4")
         StringTokenizer st = new StringTokenizer(br.readLine());
