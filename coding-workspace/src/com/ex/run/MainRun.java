@@ -47,6 +47,7 @@ public class MainRun {
 		// 스트림 형태로 바꾸는 이유는 값을 변환하기 윟마 map 으로 제공
 		
 		
+		
 	}
 
 }
