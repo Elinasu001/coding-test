@@ -1,8 +1,8 @@
-package com.ex.stack;
+package com.ex.stack.rudimentary;
 
 import java.util.Scanner;
 
-public class StackTestRun {
+public class StackStructureRun  {
 /*
  * 주의 * stack의 top 삭제 연산 할 경우 적용순서에 따라 값이 달라지니 주의 
  * 
@@ -64,7 +64,6 @@ public class StackTestRun {
             }
             
             System.out.println("----------------------------------------");
-            
             
 		}
 		
